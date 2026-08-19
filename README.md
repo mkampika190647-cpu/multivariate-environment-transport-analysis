@@ -101,16 +101,19 @@ Hierarchical Clustering, K-Means Clustering และ Discriminant Analysis
 - Multivariate Analysis
 - Data Visualization
 
-## My Responsibilities
+## Project Activities
+
+โปรเจกต์นี้เป็นงานกลุ่มในรายวิชา Applied Multivariate Analysis
+โดยสมาชิกในกลุ่มร่วมกันดำเนินการวิเคราะห์และจัดทำรายงาน ซึ่งครอบคลุมกิจกรรมดังนี้
 
 - เตรียมและตรวจสอบข้อมูลสำหรับการวิเคราะห์
-- วิเคราะห์ข้อมูลเชิงพหุตัวแปรด้วย R
-- ประยุกต์ใช้ Hierarchical Clustering
-- ประยุกต์ใช้ K-Means Clustering
-- วิเคราะห์และตีความลักษณะของแต่ละ Cluster
-- ประยุกต์ใช้ Discriminant Analysis
-- สร้างกราฟและ Visualization สำหรับประกอบการวิเคราะห์
-- สรุปและนำเสนอผลการวิเคราะห์ทางสถิติ
+- วิเคราะห์ข้อมูลด้วยโปรแกรม R
+- ประยุกต์ใช้ Hierarchical Clustering และ K-Means Clustering
+- วิเคราะห์และเปรียบเทียบลักษณะของแต่ละ Cluster
+- ประยุกต์ใช้ Discriminant Analysis สำหรับการจำแนกกลุ่ม
+- สร้างกราฟและ Visualization เพื่อประกอบการวิเคราะห์
+- ตีความและสรุปผลการวิเคราะห์ทางสถิติ
+- จัดทำรายงานและนำเสนอผลการวิเคราะห์
 
 ## Project Report
 
